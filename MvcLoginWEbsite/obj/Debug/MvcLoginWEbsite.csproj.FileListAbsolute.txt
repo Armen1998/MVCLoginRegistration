@@ -51,3 +51,7 @@ C:\Users\Armen\Documents\Visual Studio 2015\Projects\MvcLoginWEbsite\MvcLoginWEb
 C:\Users\Armen\Documents\Visual Studio 2015\Projects\MvcLoginWEbsite\MvcLoginWEbsite\obj\Debug\MvcLoginWEbsite.csprojResolveAssemblyReference.cache
 C:\Users\Armen\Documents\Visual Studio 2015\Projects\MvcLoginWEbsite\MvcLoginWEbsite\obj\Debug\MvcLoginWEbsite.dll
 C:\Users\Armen\Documents\Visual Studio 2015\Projects\MvcLoginWEbsite\MvcLoginWEbsite\obj\Debug\MvcLoginWEbsite.pdb
+C:\Users\Armen\Documents\Visual Studio 2015\Projects\MvcLoginWEbsite\MvcLoginWEbsite\bin\EntityFramework.dll
+C:\Users\Armen\Documents\Visual Studio 2015\Projects\MvcLoginWEbsite\MvcLoginWEbsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Armen\Documents\Visual Studio 2015\Projects\MvcLoginWEbsite\MvcLoginWEbsite\bin\EntityFramework.xml
+C:\Users\Armen\Documents\Visual Studio 2015\Projects\MvcLoginWEbsite\MvcLoginWEbsite\bin\EntityFramework.SqlServer.xml
