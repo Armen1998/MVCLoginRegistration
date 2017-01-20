@@ -47,7 +47,7 @@ namespace MvcLoginWEbsite.Controllers
         {
             using (OurDbContext db = new OurDbContext())
             {
-                var usr = db.userAccount.Single(u => u.UserName == user.UserName && u.Password == user.Password);
+                var usr = db.userAccount.FirstOrDefault(u => u.UserName == user.UserName && u.Password == user.Password);
                 if (usr != null)
                 {
                     Session["UserID"] = usr.UserID.ToString();                  
